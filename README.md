@@ -1,1 +1,3 @@
-# TA_DeepLearning
+# TA - Deep Learning
+
+Módulo de Deep Learning
